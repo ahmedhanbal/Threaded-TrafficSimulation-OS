@@ -1,7 +1,7 @@
 # SmartTraffix - Traffic Management System
 
 A real-time traffic management simulation system that models vehicle movement, traffic signals, and automated challan (traffic ticket) generation. The system includes features for traffic violation detection, payment processing, and traffic statistics monitoring.
-![Image](https://github.com/user-attachments/assets/2c96ce64-db1c-4d63-98ec-734ff7e02390)
+![Image](https://github.com/user-attachments/assets/a41b4f6b-b017-4b48-9f7f-c56a4af9c348)
 ## Features
 
 - Multi-threaded traffic simulation
